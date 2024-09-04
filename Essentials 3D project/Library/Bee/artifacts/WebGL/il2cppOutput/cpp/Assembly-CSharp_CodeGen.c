@@ -1,0 +1,83 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void HelloWorld_Start_m7D4140BFC9DCC632B4B2907C1BFFAC4FF2FE9247 (void);
+extern void HelloWorld_Update_mD199B6A4EF418F7EBEE4AEC5645BB7B6215371C5 (void);
+extern void HelloWorld__ctor_m7E681D25064FF84A25730DDBC04091394DE55C35 (void);
+extern void inc_size_Start_m0480EBF8829943CBB5D317D52545063113C633D0 (void);
+extern void inc_size_Update_mE0FAEBFE17686FD2BA13EFEA12624DB0CF963177 (void);
+extern void inc_size__ctor_mA00A54CF649B589462CC456ECCE7B49AC18A5E7F (void);
+extern void move_right_Start_m14B3646D7D416A5D02128D0D3A1B85A43634F506 (void);
+extern void move_right_Update_mD30E249A2B9F4540E9964A0AB1A7D9FF4EA20F6C (void);
+extern void move_right__ctor_mE8E2EF4228E6D60789D748B0E576D854C6E10A75 (void);
+extern void rot_Start_m62A0DAFC595C95F79C5AB1C2ADBA9212FF91F756 (void);
+extern void rot_Update_mEC35E9FBE719A8CE2E054FE6935741529DDB7A56 (void);
+extern void rot__ctor_m20EF2E751B654C477FFF4490C84B4B1FF2312034 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[14] = 
+{
+	HelloWorld_Start_m7D4140BFC9DCC632B4B2907C1BFFAC4FF2FE9247,
+	HelloWorld_Update_mD199B6A4EF418F7EBEE4AEC5645BB7B6215371C5,
+	HelloWorld__ctor_m7E681D25064FF84A25730DDBC04091394DE55C35,
+	inc_size_Start_m0480EBF8829943CBB5D317D52545063113C633D0,
+	inc_size_Update_mE0FAEBFE17686FD2BA13EFEA12624DB0CF963177,
+	inc_size__ctor_mA00A54CF649B589462CC456ECCE7B49AC18A5E7F,
+	move_right_Start_m14B3646D7D416A5D02128D0D3A1B85A43634F506,
+	move_right_Update_mD30E249A2B9F4540E9964A0AB1A7D9FF4EA20F6C,
+	move_right__ctor_mE8E2EF4228E6D60789D748B0E576D854C6E10A75,
+	rot_Start_m62A0DAFC595C95F79C5AB1C2ADBA9212FF91F756,
+	rot_Update_mEC35E9FBE719A8CE2E054FE6935741529DDB7A56,
+	rot__ctor_m20EF2E751B654C477FFF4490C84B4B1FF2312034,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[14] = 
+{
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	4203,
+	6102,
+	4203,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	14,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
